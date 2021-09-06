@@ -1,0 +1,29 @@
+{
+  "conversion": [
+    {
+      "id": 1,
+      "commission_amount": 0.00
+    },
+    {
+      "id": 2,
+      "commission_amount": 12.00
+    },
+    {
+      "id": 3,
+      "commission_amount": 123,
+      "affiliate_id": 2
+    }
+  ],
+  "affiliate": [
+    {
+      "id": 1,
+      "first_name": "Bob",
+      "last_name": "Hill"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Smith"
+    }
+  ]
+}
